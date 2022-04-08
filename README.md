@@ -52,4 +52,4 @@ The following image shows the web application's appearance and functionality:
 
 <br>
 
-![Image of the webpage being deployed](./assets/images/Homework-4.png)
+![Image of the webpage being deployed](./assets/images/HW5_Screen_Shot.png)
